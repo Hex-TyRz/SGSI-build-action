@@ -7,12 +7,12 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://dl.google.com/developers/android/sc/images/ota/redfin-ota-spp2.210219.008-3d61e529.zip'
-  ZIP_NAME: 'update.zip'
-  OS_TYPE: 'Pixel'
+  ROM_URL: 'https://download.h2os.com/OnePlus8Pro/HTB/OnePlus8ProHydrogen_15.H.23_OTA_023_all_2009071857_downgrade_ea644c1979ab4933.zip'
+  ZIP_NAME: 'OnePlus8ProHydrogen_15.H.23_OTA_023_all_2009071857_5b7a8917021f49da.zip'
+  OS_TYPE: 'h2os'
   BUILD_TYPE: 'ab'
-  REPACK_NAME: 'SGSI.zip'
-  VERSION: '12'
+  REPACK_NAME: 'H2OS-cmi-20210501.zip'
+  VERSION: '10'
   upload_WeTransfer: 'true'
   upload_action-gh-release: 'false'
   SETUP: 'true'
