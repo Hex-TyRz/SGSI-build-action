@@ -7,12 +7,12 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://download.h2os.com/OnePlus8Pro/HTB/OnePlus8ProHydrogen_15.H.23_OTA_023_all_2009071857_downgrade_ea644c1979ab4933.zip'
-  ZIP_NAME: 'OnePlus8ProHydrogen_15.H.23_OTA_023_all_2009071857_5b7a8917021f49da.zip'
-  OS_TYPE: 'h2os'
+  ROM_URL: 'https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20210116192951/PDEM10_11_OTA_0500_all_i5OwKR2W0S7D.ozip'
+  ZIP_NAME: 'PDEM10_11_OTA_0500_all_i5OwKR2W0S7D.ozip'
+  OS_TYPE: 'color'
   BUILD_TYPE: 'ab'
-  REPACK_NAME: 'H2OS-cmi-20210501.zip'
-  VERSION: '10'
+  REPACK_NAME: 'Coloros7-cmi-20210501.zip'
+  VERSION: '12'
   upload_WeTransfer: 'true'
   upload_action-gh-release: 'false'
   SETUP: 'true'
